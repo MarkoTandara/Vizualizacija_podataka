@@ -1,0 +1,5 @@
+Potrebno je instalirati ekstenziju LiveServer unutar VS Code-a.
+
+Nakon uspješne instalacije potrebno je otvoriti "index.html" datoteku unutar VS Code-a 
+Zatim desnim klikom Open with Live Server
+Isto tako i za "index2.html"

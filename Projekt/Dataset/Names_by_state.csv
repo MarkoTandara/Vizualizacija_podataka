@@ -1,0 +1,562 @@
+﻿statecode,year,name,value
+Alaska,2005,Ethan,63
+Alaska,2006,James,67
+Alaska,2007,Aiden,58
+Alaska,2008,James,67
+Alaska,2009,Michael,58
+Alaska,2010,William,57
+Alaska,2011,Mason,58
+Alaska,2012,James,52
+Alaska,2013,Liam,63
+Alaska,2014,Liam,66
+Alaska,2015,Liam,53
+Alabama,2005,William,550
+Alabama,2006,William,609
+Alabama,2007,William,551
+Alabama,2008,William,536
+Alabama,2009,William,508
+Alabama,2010,William,496
+Alabama,2011,William,445
+Alabama,2012,William,437
+Alabama,2013,William,437
+Alabama,2014,William,429
+Alabama,2015,William,411
+Arkansas,2005,Ethan,257
+Arkansas,2006,William,263
+Arkansas,2007,William,270
+Arkansas,2008,Jacob,205
+Arkansas,2009,William,220
+Arkansas,2010,William,195
+Arkansas,2011,William,217
+Arkansas,2012,William,217
+Arkansas,2013,William,196
+Arkansas,2014,Mason,176
+Arkansas,2015,William,193
+Arizona,2005,Angel,618
+Arizona,2006,Angel,643
+Arizona,2007,Angel,656
+Arizona,2008,Anthony,575
+Arizona,2009,Jacob,495
+Arizona,2010,Jacob,541
+Arizona,2011,Jacob,419
+Arizona,2012,Jacob,393
+Arizona,2013,Liam,386
+Arizona,2014,Noah,471
+Arizona,2015,Noah,444
+California,2005,Daniel,3914
+California,2006,Daniel,3826
+California,2007,Daniel,3868
+California,2008,Daniel,3752
+California,2009,Daniel,3392
+California,2010,Jacob,3348
+California,2011,Jacob,3167
+California,2012,Jacob,2975
+California,2013,Jacob,2881
+California,2014,Noah,2767
+California,2015,Noah,2751
+Colorado,2005,Jacob,387
+Colorado,2006,Jacob,391
+Colorado,2007,Jacob,350
+Colorado,2008,Alexander,353
+Colorado,2009,Alexander,341
+Colorado,2010,Jacob,338
+Colorado,2011,Liam,290
+Colorado,2012,Liam,354
+Colorado,2013,Liam,348
+Colorado,2014,Liam,306
+Colorado,2015,Liam,305
+Connecticut,2005,Ryan,354
+Connecticut,2006,Michael,297
+Connecticut,2007,Michael,317
+Connecticut,2008,Michael,319
+Connecticut,2009,Michael,258
+Connecticut,2010,Michael,252
+Connecticut,2011,Alexander,234
+Connecticut,2012,Mason,230
+Connecticut,2013,William,208
+Connecticut,2014,Mason,230
+Connecticut,2015,Noah,215
+District of Columbia,2005,William,111
+District of Columbia,2006,William,109
+District of Columbia,2007,William,99
+District of Columbia,2008,William,95
+District of Columbia,2009,William,87
+District of Columbia,2010,William,71
+District of Columbia,2011,William,73
+District of Columbia,2012,William,94
+District of Columbia,2013,William,87
+District of Columbia,2014,Alexander,75
+District of Columbia,2015,William,78
+Delaware,2005,Michael,89
+Delaware,2006,Ryan,74
+Delaware,2007,Michael,73
+Delaware,2008,Michael,89
+Delaware,2009,Alexander,69
+Delaware,2010,Michael,68
+Delaware,2011,Michael,64
+Delaware,2012,Michael,60
+Delaware,2013,Michael,62
+Delaware,2014,Liam,68
+Delaware,2015,Mason,60
+Florida,2005,Joshua,1502
+Florida,2006,Joshua,1476
+Florida,2007,Anthony,1432
+Florida,2008,Jayden,1338
+Florida,2009,Jayden,1327
+Florida,2010,Jayden,1292
+Florida,2011,Jayden,1235
+Florida,2012,Jayden,1152
+Florida,2013,Jayden,1122
+Florida,2014,Noah,1218
+Florida,2015,Liam,1274
+Georgia,2005,William,1032
+Georgia,2006,William,1014
+Georgia,2007,William,995
+Georgia,2008,William,913
+Georgia,2009,William,892
+Georgia,2010,William,795
+Georgia,2011,William,830
+Georgia,2012,William,778
+Georgia,2013,William,770
+Georgia,2014,William,723
+Georgia,2015,William,728
+Hawaii,2005,Joshua,95
+Hawaii,2006,Noah,96
+Hawaii,2007,Noah,100
+Hawaii,2008,Ethan,87
+Hawaii,2009,Ethan,86
+Hawaii,2010,Noah,88
+Hawaii,2011,Noah,90
+Hawaii,2012,Ethan,85
+Hawaii,2013,Liam,86
+Hawaii,2014,Noah,100
+Hawaii,2015,Noah,77
+Iowa,2005,Ethan,287
+Iowa,2006,Ethan,253
+Iowa,2007,Ethan,261
+Iowa,2008,Ethan,237
+Iowa,2009,Jacob,207
+Iowa,2010,Mason,183
+Iowa,2011,Carter,195
+Iowa,2012,Liam,200
+Iowa,2013,Liam,218
+Iowa,2014,Liam,217
+Iowa,2015,Liam,212
+Idaho,2005,Ethan,134
+Idaho,2006,Ethan,121
+Idaho,2007,Jacob,134
+Idaho,2008,Ethan,133
+Idaho,2009,Logan,112
+Idaho,2010,Samuel,114
+Idaho,2011,Mason,120
+Idaho,2012,Liam,130
+Idaho,2013,Liam,110
+Idaho,2014,Liam,117
+Idaho,2015,Liam,109
+Illinois,2005,Michael,1115
+Illinois,2006,Daniel,1022
+Illinois,2007,Daniel,1034
+Illinois,2008,Alexander,989
+Illinois,2009,Alexander,1042
+Illinois,2010,Alexander,914
+Illinois,2011,Alexander,899
+Illinois,2012,Jacob,764
+Illinois,2013,Noah,759
+Illinois,2014,Noah,837
+Illinois,2015,Noah,863
+Indiana,2005,Jacob,671
+Indiana,2006,Jacob,577
+Indiana,2007,Jacob,569
+Indiana,2008,Jacob,536
+Indiana,2009,Ethan,498
+Indiana,2010,Elijah,449
+Indiana,2011,Mason,509
+Indiana,2012,Liam,497
+Indiana,2013,Liam,511
+Indiana,2014,Liam,478
+Indiana,2015,Liam,403
+Kansas,2005,Jacob,265
+Kansas,2006,Jacob,222
+Kansas,2007,Ethan,250
+Kansas,2008,Ethan,243
+Kansas,2009,Ethan,204
+Kansas,2010,Jacob,206
+Kansas,2011,Mason,186
+Kansas,2012,Mason,202
+Kansas,2013,Liam,192
+Kansas,2014,William,198
+Kansas,2015,Liam,179
+Kentucky,2005,Jacob,553
+Kentucky,2006,Jacob,497
+Kentucky,2007,Jacob,480
+Kentucky,2008,William,429
+Kentucky,2009,Jacob,426
+Kentucky,2010,William,375
+Kentucky,2011,William,396
+Kentucky,2012,William,352
+Kentucky,2013,William,312
+Kentucky,2014,William,363
+Kentucky,2015,William,334
+Louisiana,2005,Joshua,324
+Louisiana,2006,Ethan,321
+Louisiana,2007,Joshua,301
+Louisiana,2008,Ethan,301
+Louisiana,2009,Jayden,298
+Louisiana,2010,Jayden,312
+Louisiana,2011,Mason,310
+Louisiana,2012,Mason,312
+Louisiana,2013,Mason,293
+Louisiana,2014,Mason,296
+Louisiana,2015,Noah,294
+Massachusetts,2005,Matthew,696
+Massachusetts,2006,Matthew,593
+Massachusetts,2007,Matthew,565
+Massachusetts,2008,Ryan,543
+Massachusetts,2009,Ryan,487
+Massachusetts,2010,Ryan,449
+Massachusetts,2011,William,469
+Massachusetts,2012,Benjamin,444
+Massachusetts,2013,Benjamin,501
+Massachusetts,2014,Benjamin,457
+Massachusetts,2015,Benjamin,454
+Maryland,2005,Joshua,462
+Maryland,2006,Joshua,471
+Maryland,2007,Michael,467
+Maryland,2008,Michael,393
+Maryland,2009,Michael,391
+Maryland,2010,Jacob,388
+Maryland,2011,Mason,432
+Maryland,2012,Mason,363
+Maryland,2013,Liam,321
+Maryland,2014,Noah,322
+Maryland,2015,Noah,386
+Maine,2005,Jacob,126
+Maine,2006,Jacob,127
+Maine,2007,Ethan,109
+Maine,2008,Jacob,111
+Maine,2009,Noah,98
+Maine,2010,Owen,85
+Maine,2011,Mason,94
+Maine,2012,Mason,101
+Maine,2013,Liam,94
+Maine,2014,Liam,103
+Maine,2015,Liam,78
+Michigan,2005,Jacob,960
+Michigan,2006,Jacob,864
+Michigan,2007,Jacob,821
+Michigan,2008,Jacob,770
+Michigan,2009,Jacob,714
+Michigan,2010,Jacob,675
+Michigan,2011,Mason,687
+Michigan,2012,Mason,659
+Michigan,2013,Liam,599
+Michigan,2014,Liam,579
+Michigan,2015,Noah,530
+Minnesota,2005,Ethan,494
+Minnesota,2006,Ethan,463
+Minnesota,2007,Jacob,461
+Minnesota,2008,Ethan,408
+Minnesota,2009,Logan,390
+Minnesota,2010,Mason,406
+Minnesota,2011,Mason,446
+Minnesota,2012,Mason,363
+Minnesota,2013,William,353
+Minnesota,2014,Henry,352
+Minnesota,2015,Henry,392
+Missouri,2005,Jacob,545
+Missouri,2006,Jacob,555
+Missouri,2007,Jacob,544
+Missouri,2008,Jacob,482
+Missouri,2009,Jacob,397
+Missouri,2010,Jacob,419
+Missouri,2011,Mason,482
+Missouri,2012,Mason,439
+Missouri,2013,William,436
+Missouri,2014,Liam,412
+Missouri,2015,Liam,380
+Mississippi,2005,William,336
+Mississippi,2006,William,311
+Mississippi,2007,William,303
+Mississippi,2008,William,288
+Mississippi,2009,William,252
+Mississippi,2010,William,218
+Mississippi,2011,William,291
+Mississippi,2012,William,225
+Mississippi,2013,William,241
+Mississippi,2014,William,226
+Mississippi,2015,William,212
+Montana,2005,Jacob,85
+Montana,2006,Jacob,68
+Montana,2007,Ethan,68
+Montana,2008,Ethan,66
+Montana,2009,Ethan,60
+Montana,2010,Wyatt,60
+Montana,2011,Mason,74
+Montana,2012,Liam,67
+Montana,2013,Liam,80
+Montana,2014,William,60
+Montana,2015,William,63
+North Carolina,2005,William,924
+North Carolina,2006,William,890
+North Carolina,2007,William,896
+North Carolina,2008,William,888
+North Carolina,2009,William,793
+North Carolina,2010,William,821
+North Carolina,2011,William,765
+North Carolina,2012,William,710
+North Carolina,2013,William,704
+North Carolina,2014,William,730
+North Carolina,2015,William,702
+North Dakota,2005,Ethan,80
+North Dakota,2006,Logan,73
+North Dakota,2007,Logan,66
+North Dakota,2008,Carter,62
+North Dakota,2009,Ethan,60
+North Dakota,2010,Mason,64
+North Dakota,2011,Mason,71
+North Dakota,2012,Liam,60
+North Dakota,2013,Mason,66
+North Dakota,2014,Liam,68
+North Dakota,2015,Liam,63
+Nebraska,2005,Jacob,169
+Nebraska,2006,Jacob,150
+Nebraska,2007,Jacob,158
+Nebraska,2008,Jacob,145
+Nebraska,2009,Alexander,142
+Nebraska,2010,Jacob,130
+Nebraska,2011,Mason,131
+Nebraska,2012,Liam,153
+Nebraska,2013,Mason,132
+Nebraska,2014,Liam,149
+Nebraska,2015,Henry,127
+New Hampshire,2005,Jacob,147
+New Hampshire,2006,Jacob,120
+New Hampshire,2007,Jacob,126
+New Hampshire,2008,Jacob,114
+New Hampshire,2009,Logan,102
+New Hampshire,2010,Logan,98
+New Hampshire,2011,Mason,107
+New Hampshire,2012,Mason,100
+New Hampshire,2013,Liam,91
+New Hampshire,2014,Jacob,89
+New Hampshire,2015,Jackson,85
+New Jersey,2005,Michael,1085
+New Jersey,2006,Michael,1029
+New Jersey,2007,Michael,984
+New Jersey,2008,Michael,839
+New Jersey,2009,Michael,803
+New Jersey,2010,Michael,707
+New Jersey,2011,Michael,698
+New Jersey,2012,Michael,647
+New Jersey,2013,Michael,605
+New Jersey,2014,Michael,583
+New Jersey,2015,Liam,569
+New Mexico,2005,Joshua,196
+New Mexico,2006,Joshua,167
+New Mexico,2007,Jacob,172
+New Mexico,2008,Isaiah,177
+New Mexico,2009,Aiden,139
+New Mexico,2010,Elijah,143
+New Mexico,2011,Jacob,159
+New Mexico,2012,Noah,128
+New Mexico,2013,Noah,148
+New Mexico,2014,Noah,125
+New Mexico,2015,Noah,131
+Nevada,2005,Anthony,223
+Nevada,2006,Anthony,278
+Nevada,2007,Anthony,254
+Nevada,2008,Anthony,251
+Nevada,2009,Anthony,221
+Nevada,2010,Jacob,198
+Nevada,2011,Anthony,192
+Nevada,2012,Alexander,187
+Nevada,2013,Ethan,167
+Nevada,2014,Noah,192
+Nevada,2015,Noah,184
+New York,2005,Michael,2088
+New York,2006,Michael,1982
+New York,2007,Michael,1939
+New York,2008,Michael,1747
+New York,2009,Michael,1712
+New York,2010,Michael,1514
+New York,2011,Michael,1456
+New York,2012,Michael,1388
+New York,2013,Jacob,1297
+New York,2014,Jacob,1300
+New York,2015,Liam,1388
+Ohio,2005,Jacob,1184
+Ohio,2006,Jacob,1049
+Ohio,2007,Jacob,1013
+Ohio,2008,Jacob,945
+Ohio,2009,Jacob,838
+Ohio,2010,Jacob,754
+Ohio,2011,Mason,889
+Ohio,2012,Mason,852
+Ohio,2013,Liam,789
+Ohio,2014,Liam,720
+Ohio,2015,Liam,688
+Oklahoma,2005,Jacob,328
+Oklahoma,2006,Jacob,345
+Oklahoma,2007,Ethan,324
+Oklahoma,2008,Ethan,266
+Oklahoma,2009,Ethan,245
+Oklahoma,2010,Jacob,232
+Oklahoma,2011,William,233
+Oklahoma,2012,Elijah,219
+Oklahoma,2013,Mason,214
+Oklahoma,2014,William,217
+Oklahoma,2015,Elijah,213
+Oregon,2005,Jacob,290
+Oregon,2006,Jacob,288
+Oregon,2007,Jacob,257
+Oregon,2008,Ethan,232
+Oregon,2009,Alexander,243
+Oregon,2010,Jacob,240
+Oregon,2011,Mason,221
+Oregon,2012,Liam,244
+Oregon,2013,Liam,261
+Oregon,2014,Liam,211
+Oregon,2015,Liam,222
+Pennsylvania,2005,Michael,1112
+Pennsylvania,2006,Jacob,1071
+Pennsylvania,2007,Michael,1023
+Pennsylvania,2008,Michael,928
+Pennsylvania,2009,Michael,814
+Pennsylvania,2010,Michael,826
+Pennsylvania,2011,Mason,916
+Pennsylvania,2012,Mason,868
+Pennsylvania,2013,Mason,815
+Pennsylvania,2014,Mason,790
+Pennsylvania,2015,Mason,790
+Rhode Island,2005,Michael,119
+Rhode Island,2006,Ryan,101
+Rhode Island,2007,Michael,97
+Rhode Island,2008,Michael,89
+Rhode Island,2009,Anthony,81
+Rhode Island,2010,Logan,84
+Rhode Island,2011,Mason,85
+Rhode Island,2012,Mason,96
+Rhode Island,2013,Liam,82
+Rhode Island,2014,Mason,86
+Rhode Island,2015,Noah,72
+South Carolina,2005,William,434
+South Carolina,2006,William,442
+South Carolina,2007,William,405
+South Carolina,2008,William,457
+South Carolina,2009,William,417
+South Carolina,2010,William,398
+South Carolina,2011,William,410
+South Carolina,2012,William,402
+South Carolina,2013,William,342
+South Carolina,2014,William,364
+South Carolina,2015,William,357
+South Dakota,2005,Jacob,80
+South Dakota,2006,Jacob,81
+South Dakota,2007,Ethan,72
+South Dakota,2008,Jacob,56
+South Dakota,2009,Ethan,72
+South Dakota,2010,Jacob,68
+South Dakota,2011,Mason,82
+South Dakota,2012,Liam,72
+South Dakota,2013,Liam,82
+South Dakota,2014,Liam,57
+South Dakota,2015,Oliver,62
+Tennessee,2005,William,748
+Tennessee,2006,William,697
+Tennessee,2007,William,699
+Tennessee,2008,William,705
+Tennessee,2009,William,644
+Tennessee,2010,William,569
+Tennessee,2011,William,606
+Tennessee,2012,William,580
+Tennessee,2013,William,552
+Tennessee,2014,William,545
+Tennessee,2015,William,522
+Texas,2005,Jose,2805
+Texas,2006,Jose,2657
+Texas,2007,Jose,2581
+Texas,2008,Jose,2357
+Texas,2009,Jose,2264
+Texas,2010,Jacob,2273
+Texas,2011,Jacob,2045
+Texas,2012,Jacob,1949
+Texas,2013,Jacob,1972
+Texas,2014,Noah,2080
+Texas,2015,Noah,2147
+Utah,2005,Jacob,323
+Utah,2006,Ethan,352
+Utah,2007,Ethan,349
+Utah,2008,Ethan,306
+Utah,2009,Ethan,288
+Utah,2010,William,264
+Utah,2011,Mason,274
+Utah,2012,William,281
+Utah,2013,William,275
+Utah,2014,William,285
+Utah,2015,William,309
+Virginia,2005,William,746
+Virginia,2006,William,666
+Virginia,2007,William,692
+Virginia,2008,William,679
+Virginia,2009,William,603
+Virginia,2010,William,621
+Virginia,2011,William,588
+Virginia,2012,William,647
+Virginia,2013,William,598
+Virginia,2014,William,594
+Virginia,2015,William,549
+Vermont,2005,Jacob,63
+Vermont,2006,Jacob,56
+Vermont,2007,Logan,50
+Vermont,2008,Jacob,45
+Vermont,2009,Noah,46
+Vermont,2010,Logan,43
+Vermont,2011,Liam,41
+Vermont,2012,Mason,43
+Vermont,2013,Mason,43
+Vermont,2014,Liam,47
+Vermont,2015,Liam,40
+Washington,2005,Jacob,483
+Washington,2006,Jacob,494
+Washington,2007,Jacob,507
+Washington,2008,Ethan,464
+Washington,2009,Alexander,446
+Washington,2010,Jacob,414
+Washington,2011,Mason,447
+Washington,2012,Mason,413
+Washington,2013,Liam,464
+Washington,2014,Liam,407
+Washington,2015,Oliver,397
+Wisconsin,2005,Ethan,489
+Wisconsin,2006,Ethan,476
+Wisconsin,2007,Ethan,436
+Wisconsin,2008,Ethan,429
+Wisconsin,2009,Ethan,371
+Wisconsin,2010,Mason,448
+Wisconsin,2011,Mason,512
+Wisconsin,2012,Mason,430
+Wisconsin,2013,Liam,396
+Wisconsin,2014,Mason,386
+Wisconsin,2015,Oliver,305
+West Virginia,2005,Jacob,243
+West Virginia,2006,Jacob,199
+West Virginia,2007,Jacob,203
+West Virginia,2008,Jacob,175
+West Virginia,2009,Jacob,157
+West Virginia,2010,Jacob,169
+West Virginia,2011,Mason,160
+West Virginia,2012,Mason,157
+West Virginia,2013,Mason,150
+West Virginia,2014,Mason,129
+West Virginia,2015,Noah,137
+Wyoming,2005,Jacob,41
+Wyoming,2006,Ethan,44
+Wyoming,2007,James,38
+Wyoming,2008,James,41
+Wyoming,2009,Wyatt,42
+Wyoming,2010,James,36
+Wyoming,2011,William,32
+Wyoming,2012,Liam,41
+Wyoming,2013,Liam,33
+Wyoming,2014,Jackson,34
+Wyoming,2015,Liam,38

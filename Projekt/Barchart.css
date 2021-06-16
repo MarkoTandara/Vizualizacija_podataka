@@ -1,0 +1,56 @@
+
+
+text{
+    font-size: 16px;
+    font-family: Open Sans, sans-serif;
+    
+  }
+  text.title{
+    font-size: 28px;
+    font-weight: 700;
+    fill: rgb(0, 37, 116);
+  }
+    text.subTitle{
+      font-weight: 600;
+      fill: rgb(0, 37, 116);
+    }
+    text.caption{
+      font-weight: 400;
+      font-size: 14px;
+      fill: #777777;
+    }
+    text.label{
+      font-weight: 600;
+      fill: lightblue;
+    }
+  
+    text.valueLabel{
+     font-weight: 700;
+     fill: rgb(0, 37, 116);
+    }
+  
+    text.yearText{
+      font-size: 64px;
+      font-weight: 700;
+      opacity: 0.75;
+      fill: rgb(0, 37, 116);
+    }
+    .tick text {
+      font-weight: 600;
+      fill: rgb(0, 37, 116);
+    }
+    .xAxis .tick:nth-child(2) text {
+      text-anchor: start;
+    }
+    .tick line {
+      shape-rendering: CrispEdges;
+      stroke: rgb(0, 37, 116);
+      
+    }
+    .tick line.origin{
+      stroke: black;
+      
+    }
+    path.domain{
+      display: none;
+    }
